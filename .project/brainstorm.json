@@ -1,0 +1,27 @@
+{
+  "nodes": [
+    {
+      "author": "claude-code",
+      "created": "2026-11-01T22:18:06.245Z",
+      "id": "n-0mvye5jxh-m8th",
+      "inbox": true,
+      "kind": "idea",
+      "links": [],
+      "text": "Card action: \"Copy agent prompt\" that pastes the latest handoff and next step into a new agent session",
+      "x": -320,
+      "y": 0
+    },
+    {
+      "author": "claude-code",
+      "created": "2026-11-01T22:18:06.250Z",
+      "id": "n-0mvye5jxm-9zax",
+      "inbox": true,
+      "kind": "question",
+      "links": [],
+      "text": "Should .project/ be git-ignored in client or public repos? The hub would still work, but history would be lost.",
+      "x": -320,
+      "y": 90
+    }
+  ],
+  "version": 1
+}

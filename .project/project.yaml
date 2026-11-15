@@ -1,0 +1,7 @@
+name: varvar
+summary: Project Hub — all my git repos in one place, with the same view for coding agents over MCP.
+status: active
+tags:
+  - tooling
+  - mcp
+next_step: Try the hub on ~/code and set up the Claude Code hooks
